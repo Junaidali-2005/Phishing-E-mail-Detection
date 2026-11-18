@@ -1,4 +1,4 @@
-# Phishing-E-mail-Detection
+# Phishing E-mail Detection
 The phishing email is one of the significant threats in the world today and has caused tremendous
 financial losses. Although the methods of confrontation are continually being updated, the results of
 those methods are not very satisfactory at present. Moreover, phishing emails are growing at an
