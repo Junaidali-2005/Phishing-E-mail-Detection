@@ -13,4 +13,3 @@ accuracy of THEMIS reaches 99.848%. Meanwhile, the false positive rate (FPR) is 
 accuracy and low FPR ensure that the filter can identify phishing emails with high probability and
 filter out legitimate emails as little as possible. This promising result is superior to the existing
 detection methods and verifies the effectiveness of THEMIS in detecting phishing email.
-i
